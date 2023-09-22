@@ -26,14 +26,7 @@
 
 ### 🛠 &nbsp;Tech Stack
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?usernameAyA-EhaB=&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=AyA-EhaB&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=AyA-EhaB&style=for-the-badge">
-</a>
+
 
 
 
