@@ -9,7 +9,6 @@
 
 - 🏢 I'm a Computer Science student 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Data science and python .
 - ⚡☕ Fun Fact: I'm a coffee lover and my perfect day would start with a cup of coffee.
 
 
