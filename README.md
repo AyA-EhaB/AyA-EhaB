@@ -3,8 +3,8 @@
 
 <p align="center">
   🚀 CS & AI Student @Cairo University <br>
-  🧠 Passionate about Data Science <br>
-  💬 I love teaching what I learn and building AI-powered apps! <br>
+  🧠 Passionate about AI <br>
+  💬 I love teaching what I learn <br>
   ☕ Coffee lover
 </p>
 
@@ -33,12 +33,12 @@
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AyA-EhaB/AyA-EhaB/main/assets/logo.png" width="100" alt="Logo">
   <hr style="border:1px solid #ccc; width: 70%;">
   <strong>View Count</strong><br>
   <img src="https://profile-counter.glitch.me/AyA-EhaB/count.svg" alt="View Counter">
+  <hr style="border:1px solid #ccc; width: 70%;">
 </p>
-
+---
 
 ### 🧠 Featured Projects
 
@@ -57,17 +57,8 @@
 
 ### 🌱 Current Goals
 
-- 🔬 Master Deep Learning & LLMs
+- 🔬 Master Deep Learning ,CV ,NLP
 - 🧪 Build impactful AI-driven apps
 - ✨ Share my learning through blog posts and sessions
 - 💼 Land a data science internship where I can grow & contribute
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
-</p>
-
-<p align="center">
-  <i>"Turning data into insights, and insights into impact."</i>
-</p>
