@@ -46,11 +46,7 @@
 
 ### 📣 Connect With Me
 
-<p align="left">
-  <a href="mailto:ayaehap567@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/aya-ehab-ramadan"><img src="https://img.shields.io/badge/LinkedIn-Aya%20Ehab-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/Aya_Ehab25"><img src="https://img.shields.io/badge/Codeforces-Aya_Ehab25-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-</p>
+<p align="left"> <a href="mailto:ayaehap567@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a> <a href="https://www.linkedin.com/in/aya-ehab-ramadan-a6bab4252/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Aya%20Ehab-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://www.kaggle.com/ayaehabramadan" target="_blank"> <img src="https://img.shields.io/badge/Kaggle-Aya%20Ehab-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"> </a> <a href="https://codeforces.com/profile/Aya_Ehab25" target="_blank"> <img src="https://img.shields.io/badge/Codeforces-Aya_Ehab25-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"> </a> </p>
 
 ---
 
