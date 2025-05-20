@@ -1,4 +1,4 @@
-<h1 align="center">وَقُل رَّبِّ زِدْنِي عِلْمًا<br><sub>(Surah Taha 20:114)</sub></h1>
+<h2 align="center">وَقُل رَّبِّ زِدْنِي عِلْمًا 📖 <br><sub>(Surah Taha 20:114)</sub></h2>
 
 <h2 align="center">Assalamualaikum! I'm Aya Ehab 👋</h2>
 
@@ -24,7 +24,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-2E3F4F?style=for-the-badge&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -34,19 +34,24 @@
 
 ---
 
-<p align="center">
-  <strong>View Count</strong><br>
-  <img src="https://profile-counter.glitch.me/AyA-EhaB/count.svg" alt="View Counter">
-</p>
-
----
-
 ### 🧠 Featured Projects
 
 - 🚴 **[Bike Sales Dashboard](https://github.com/AyA-EhaB/Bike_Sales_Dashboard)** – Excel dashboard with charts, slicers & insights.
 - 📱 **[SMS Spam Detector](https://github.com/AyA-EhaB/Spam_Detector)** – NLP & ML-powered app to classify spam using TF-IDF + Streamlit.
 - 💸 **[Insurance Cost Predictor](https://github.com/AyA-EhaB/insurance-cost-app)** – Predict charges using regression & scikit-learn.
 - 🌍 **[Tourism Sentiment Analyzer](https://github.com/Mosapmohamd/DEPI-Graduation-Project)** – BiLSTM + Langchain + Gemini = insights from tourist reviews!
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyA-EhaB&show_icons=true&theme=ambient_gradient" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyA-EhaB&layout=compact&theme=ambient_gradient" alt="Top Languages">
+  <br>
+  <img src="https://streak-stats.demolab.com?user=AyA-EhaB&theme=ambient_gradient" alt="GitHub Streak">
+</p>
 
 ---
 
@@ -75,3 +80,10 @@
 - 🧪 Build impactful AI-driven apps
 - ✨ Share my learning through blog posts and sessions
 - 💼 Land a data science internship where I can grow & contribute
+
+---
+
+<p align="center">
+  <strong>View Count</strong><br>
+  <img src="https://profile-counter.glitch.me/AyA-EhaB/count.svg" alt="View Counter">
+</p>
