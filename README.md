@@ -53,9 +53,6 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyA-EhaB&layout=compact&theme=ambient_gradient" alt="Top Languages"/>
     </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=AyA-EhaB&theme=ambient_gradient" alt="GitHub Streak"/>
-    </td>
   </tr>
 </table>
 
