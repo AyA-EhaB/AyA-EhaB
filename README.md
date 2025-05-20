@@ -1,13 +1,13 @@
-<h2 align="center">Hey there! I'm Aya Ehap 👋</h2>
+<h2 align="center">Assalamualaikum! I'm Aya Ehab 👋</h2>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="60" />
+  <img src="[https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGw2a3h6a2JlMnE0MmgzZWNtcTJyb3F1MGpidWRtYTB5dmN3cDN0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif)" width="60" />
 </p>
 
 <p align="center">
-  🚀 CS & AI Student @ Cairo University <br>
-  🧠 Passionate about Data Science, ML & NLP <br>
+  🚀 CS & AI Student @Cairo University <br>
+  🧠 Passionate about Data Science <br>
   💬 I love teaching what I learn and building AI-powered apps! <br>
-  ☕ Coffee fuels my code & curiosity
+  ☕ Coffee lover
 </p>
 
 ---
@@ -16,9 +16,8 @@
 
 - 🎓 I'm a **Computer Science & Artificial Intelligence** student at Cairo University (Class of 2026).
 - 💡 I build smart apps using **Python, NLP, and Machine Learning**.
-- 🌐 Intern at **IBM Data Scientist Track - DEPI**, building real-world projects.
-- 📢 Active **IEEE AI Committee Member**, delivering workshops on data science tools (Pandas, NumPy, Matplotlib, EDA).
-- 💬 Fun Fact: My debugging sessions always start with ☕ coffee and good music.
+- 🌐 Intern at **IBM Data Scientist Track - DEPI**, built real-world projects.
+- 📢 Active **IEEE AI Committee Member**, delivering workshops on data science (Pandas, NumPy, Matplotlib, EDA).
 
 ---
 
