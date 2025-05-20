@@ -45,13 +45,19 @@
 
 ### 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyA-EhaB&show_icons=true&theme=ambient_gradient" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyA-EhaB&layout=compact&theme=ambient_gradient" alt="Top Languages">
-  <br>
-  <img src="https://streak-stats.demolab.com?user=AyA-EhaB&theme=ambient_gradient" alt="GitHub Streak">
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AyA-EhaB&show_icons=true&theme=ambient_gradient" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyA-EhaB&layout=compact&theme=ambient_gradient" alt="Top Languages"/>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=AyA-EhaB&theme=ambient_gradient" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
