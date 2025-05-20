@@ -1,4 +1,4 @@
-<h2 align="center">وَقُل رَّبِّ زِدْنِي عِلْمًا 📖 <br><sub>(Surah Taha 20:114)</sub></h2>
+<h1 align="center">وَقُل رَّبِّ زِدْنِي عِلْمًا<br><sub>(Surah Taha 20:114)</sub></h1>
 
 <h2 align="center">Assalamualaikum! I'm Aya Ehab 👋</h2>
 
