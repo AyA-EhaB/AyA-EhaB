@@ -1,7 +1,5 @@
 <h2 align="center">Assalamualaikum! I'm Aya Ehab 👋</h2>
-<p align="center">
-  <img src="[https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGw2a3h6a2JlMnE0MmgzZWNtcTJyb3F1MGpidWRtYTB5dmN3cDN0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif)" width="60" />
-</p>
+
 
 <p align="center">
   🚀 CS & AI Student @Cairo University <br>
@@ -34,6 +32,13 @@
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AyA-EhaB/AyA-EhaB/main/assets/logo.png" width="100" alt="Logo">
+  <hr style="border:1px solid #ccc; width: 70%;">
+  <strong>View Count</strong><br>
+  <img src="https://profile-counter.glitch.me/AyA-EhaB/count.svg" alt="View Counter">
+</p>
+
 
 ### 🧠 Featured Projects
 
